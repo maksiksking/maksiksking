@@ -1,4 +1,4 @@
-A bit of everything really - web dev/design, generally programming, video editing, translating, music, 3D design, whatever-ish else.
+A bit of everything really - web dev/design, generally programming, video editing, translation, music, 3D design, whatever-ish else.
 
 I'm an unclassifiable undecided entity but I mostly do web-design/dev. This is my very professional, totally not filled with junk among my actual projects github, no, no wdym.
 
